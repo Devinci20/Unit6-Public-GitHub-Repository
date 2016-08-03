@@ -1,0 +1,3 @@
+(a) What does the expression new Date() produce? // it produces today's date.
+(b) What does the expression new Date( 2009,0,20) produce? // It changes the date to Jan 20th 2009.
+(c) If d1 and d2 refer to date objects, what does the expression d1. valueOf() - d2. valueOf() produce? // this will subtract the primitive value (number of millisecond since the date input)produced by d1.valueOf() with that of d2.valueOf()
